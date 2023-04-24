@@ -1,5 +1,5 @@
 # Description
- This app compiled with fasm and source code for FASM X32 compiler
+ This source code for FASM X32 compiler
 
 # Functions
     This crackme have Security LIB for trashcode in IDA/etc.
